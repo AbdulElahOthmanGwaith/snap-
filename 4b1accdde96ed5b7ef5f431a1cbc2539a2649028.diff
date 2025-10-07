@@ -1,0 +1,59 @@
+commit 4b1accdde96ed5b7ef5f431a1cbc2539a2649028
+Author:     AbdulElahOthmanAhmedGwaith <228761404+AbdulElahOthmanGwaith@users.noreply.github.com>
+AuthorDate: Tue Oct 07 22:04:55 GMT+03:00 2025
+Commit:     GitHub <noreply@github.com>
+CommitDate: Tue Oct 07 22:04:55 GMT+03:00 2025
+
+    Initial commit
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..5d947ca
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,18 @@
++# Build and Release Folders
++bin-debug/
++bin-release/
++[Oo]bj/
++[Bb]in/
++
++# Other files and folders
++.settings/
++
++# Executables
++*.swf
++*.air
++*.ipa
++*.apk
++
++# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
++# should NOT be excluded as they contain compiler settings and other important
++# information for Eclipse / Flash Builder.
+diff --git a/LICENSE b/LICENSE
+new file mode 100644
+index 0000000..eb55544
+--- /dev/null
++++ b/LICENSE
+@@ -0,0 +1,21 @@
++MIT License
++
++Copyright (c) 2025 AbdulElahOthmanAhmedGwaith
++
++Permission is hereby granted, free of charge, to any person obtaining a copy
++of this software and associated documentation files (the "Software"), to deal
++in the Software without restriction, including without limitation the rights
++to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
++copies of the Software, and to permit persons to whom the Software is
++furnished to do so, subject to the following conditions:
++
++The above copyright notice and this permission notice shall be included in all
++copies or substantial portions of the Software.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
++IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
++FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
++AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
++LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
++OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
++SOFTWARE.
